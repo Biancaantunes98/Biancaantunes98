@@ -16,7 +16,9 @@
 </div>
 <div style="display: inline_block"><br> 
   <a href = "mailto:bianca.antunes98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bianca-antunes-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/bianca-antunes-silva/">
+    <img src="https://github.com/biancaantunes98/biancaantunes98/raw/master/github/linkedin.png" alt="LinkedIn" height="50">
+  </a>
   
   ![Snake animation](https://github.com/biancaantunes98/biancaantunes98/blob/output/github-contribution-grid-snake.svg)
  
