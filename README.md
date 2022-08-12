@@ -1,4 +1,4 @@
-        Oii! Eu sou a Bianca Antunes 😊🖖
+                                Oii! Eu sou a Bianca Antunes 😊🖖
 
 - 👩‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
 - 📓 Atualmente estudando HTML, CSS e JavaScript
