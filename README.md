@@ -1,9 +1,9 @@
-   ### Oii! Eu sou a Bianca Antunes 😊🖖
+   ### Hi! I am Bianca Antunes 😊🖖
 
-- 👩‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
-- 📓 Atualmente estudando HTML, CSS e JavaScript
-- 🎵 Gosto de Rock e Pop
-- 🎥 Gosto de assistir series e filmes
+- 👩‍🎓 I'm graduating in Computer System Analysis
+- 📓 I'm currently learning HTML, CSS and JavaScript
+- 🎵 I like to listen to music, especially Rock and Pop music 
+- 🎥 I also like to watch movies and tv series
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaantunes98&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaantunes98&layout=compact&langs_count=7&theme=jolly"/>
